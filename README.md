@@ -1,41 +1,37 @@
 <div align="center">
   <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg"/></a>
-  <p><em>🗂️A file list program that supports multiple storage, powered by Gin and React.</em></p>
+  <p><em>Radekyの录播小站 Hi there 👋 基于Alist搭建</em></p>
   <a href="https://github.com/Xhofe/alist/releases"><img src="https://img.shields.io/github/release/Xhofe/alist?style=flat-square" alt="latest version"></a>
-  <a href="https://github.com/Xhofe/alist/discussions"><img src="https://img.shields.io/github/discussions/Xhofe/alist?color=%23ED8936&style=flat-square" alt="discussions"></a>
   <a href="https://github.com/Xhofe/alist/actions?query=workflow%3ABuild"><img src="https://img.shields.io/github/workflow/status/Xhofe/alist/build?style=flat-square" alt="Build status"></a>
-  <a href="https://github.com/Xhofe/alist/releases"><img src="https://img.shields.io/github/downloads/Xhofe/alist/total?style=flat-square&color=%239F7AEA" alt="Downloads"></a>
   <a href="https://github.com/Xhofe/alist/blob/v2/LICENSE"><img src="https://img.shields.io/github/license/Xhofe/alist?style=flat-square" alt="License"></a>
-  <a href="https://pay.xhofe.top">
-    <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square" alt="donate">
-  </a>
 </div>
 
 ---
 
-[Contributors](./CONTRIBUTORS.md) | [Contributing](./CONTRIBUTING.md)
+## 食用方法
 
-> ### New version is under development. Checkout [v2](https://github.com/alist-org/alist/tree/v2) branch for latest version.
+#### 进入文件详细页面，点击右上角“下载”即可。
+#### 如果没有出现当天录播的话，那么说明: 
+* 正在上传中，请稍后再来 
+* 该主播没有加入每日录播行列，可以在「取得联系」板块联系我添加 
+* 负责上传的机器人睡着了，私信我叫我把他打醒
 
-## Discussion
 
-Please go to our [discussion forum](https://github.com/Xhofe/alist/discussions) for general questions, **issues are for bug reports and feature request only.**
+## 界面功能
 
-## Special sponsors
-- [Find Resources - Aliyundrive Resource Search Engine](https://zhaoziyuan.la/)
-- [JetBrains: Essential tools for software developers and teams](https://www.jetbrains.com/)
+* 点击文件上方属性可根据不同属性对文件进行排序
+* 网站右上角🔍图标可快速搜索文件
+* 进入文件详细页面，可点击右上角“下载”下载该文件
+* 文件详细界面可使用在线播放器播放视频，也可通过下方按钮调用本地播放器播放
+* 右下角🌏图标可主动切换语言
+* 右下角☀图标可切换浅色/深色模式
 
-## License
 
-The `AList` is open-source software licensed under the AGPL-3.0 license.
+## 取得联系
 
-## Disclaimer
-- This program is a free and open source project. It is designed to share files on the network disk, which is convenient for downloading and learning golang. Please abide by relevant laws and regulations when using it, and do not abuse it;
-- This program is implemented by calling the official sdk/interface, without destroying the official interface behavior;
-- This program only does 302 redirect/traffic forwarding, and does not intercept, store, or tamper with any user data;
-- Before using this program, you should understand and bear the corresponding risks, including but not limited to account ban, download speed limit, etc., which is none of this program's business;
-- If there is any infringement, please contact me by [email](mailto:i@nn.ci), and it will be dealt with in time.
+* #### B站: [Radeky_spec](https://space.bilibili.com/178856569)
 
----
+* #### 邮箱: w41k3r15347@gmail.com
 
-> [@Blog](https://nn.ci/) · [@GitHub](https://github.com/Xhofe) · [@TelegramGroup](https://t.me/alist_chat) · [@QQGroup](https://jq.qq.com/?_wv=1027&k=YJJj2Gwb)
+* #### QQ: Radeky (462114588)
+
